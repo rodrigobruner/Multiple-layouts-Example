@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiple layouts example</string>
+    <string name="txtName">Enter your name</string>
+    <string name="btnActivity">Go to next layout</string>
+    <string name="btnReturn">Back to previous screen</string>
+    <string name="errorNameMandatory">Name field is mandatory</string>
+</resources>
